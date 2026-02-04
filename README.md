@@ -1,4 +1,4 @@
-# Signal-and-Audio-Processing, Spring 2026
+# Signal and Audio Processing, Spring 2026
 
 Course description
 
