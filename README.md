@@ -10,7 +10,7 @@ Course description
 
 **Assignments**: all assignments are given and checked in the corresponding Teams space
 
-**Video recordings**: TBA
+**Video recordings**: [playlist](https://www.youtube.com/playlist?list=PLmdhHuaoylaFJAZ3Pf6J7PcrpPqyrsfD6)
 
 ## Course assessment
 
@@ -24,7 +24,7 @@ Completion: To pass this module, both components must be passed with at least 45
 
 | Date | Number | Topic | Materials |
 | :---: | :---: | --- | --- |
-| 10.02.26 | 01 | 	|  |
+| 10.02.26 | 01 | Introduction to signals. Discrete Fourier Transform	| [Video](https://youtu.be/eO91yH-QcoE) |
 | 17.02.26 | 02 | 	|  |
 | 24.02.26 | 03 | 	|  |
 | 03.03.26 | 04 | 	|  |
