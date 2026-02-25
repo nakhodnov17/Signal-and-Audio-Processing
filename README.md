@@ -26,7 +26,7 @@ Completion: To pass this module, both components must be passed with at least 45
 | :---: | :---: | --- | --- |
 | 10.02.26 | 01 | Introduction to signals. Discrete Fourier Transform	| [Video](https://youtu.be/eO91yH-QcoE)<br> [ipynb](Seminars/Seminar%2001/Seminar%2001.ipynb) |
 | 17.02.26 | 02 | DFT and convolutions, Fast Fourier Transform, Aliasing, Discrete Time Fourier Transform	| [Video](https://youtu.be/npB0sKGjrCg)<br> [ipynb](Seminars/Seminar%2002/Seminar%2002.ipynb) |
-| 24.02.26 | 03 | 	|  |
+| 24.02.26 | 03 | Gibbs effect, Aperture, Discrete Time Fourier Transform	| [Video](https://youtu.be/bIJhzy2yP8A)<br> [ipynb](Seminars/Seminar%2003/Seminra%2003.ipynb) |
 | 03.03.26 | 04 | 	|  |
 | 10.03.26 | 05 | 	|  |
 | 17.03.26 | 06 | 	|  |
