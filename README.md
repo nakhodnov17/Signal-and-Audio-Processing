@@ -28,7 +28,7 @@ Completion: To pass this module, both components must be passed with at least 45
 | 17.02.26 | 02 | DFT and convolutions, Fast Fourier Transform, Aliasing, Discrete Time Fourier Transform	| [Video](https://youtu.be/npB0sKGjrCg)<br> [ipynb](Seminars/Seminar%2002/Seminar%2002.ipynb) |
 | 24.02.26 | 03 | Gibbs effect, Aperture, Discrete Time Fourier Transform	| [Video](https://youtu.be/bIJhzy2yP8A)<br> [ipynb](Seminars/Seminar%2003/Seminar%2003.ipynb) |
 | 03.03.26 | 04 | Fourier transform summary. Digital filters	| [Video](https://youtu.be/klVdwVkzaU0)<br> [Lecture notes](Seminars/Seminar%2004/seminar%2004.pdf)<br> [FIR/IIR example](Seminars/Seminar%2004/Seminar%2004.ipynb) |
-| 10.03.26 | 05 | Human speech characteristics. Audio spectrograms.	| [Video](https://youtu.be/JWcr-sjSKZQ)<br> [ipynb](Seminars/Seminar%2005/Seimnar%2005.ipynb) |
+| 10.03.26 | 05 | Human speech characteristics. Audio spectrograms.	| [Video](https://youtu.be/JWcr-sjSKZQ)<br> [ipynb](Seminars/Seminar%2005/Seminar%2005.ipynb) |
 | 17.03.26 | 06 | 	|  |
 | 24.03.26 | 07 | 	|  |
 | 31.03.26 | -- | *Semester break. No classes.*	|  |
