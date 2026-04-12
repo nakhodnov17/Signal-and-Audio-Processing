@@ -30,7 +30,7 @@ Completion: To pass this module, both components must be passed with at least 45
 | 03.03.26 | 04 | Fourier transform summary. Digital filters	| [Video](https://youtu.be/klVdwVkzaU0)<br> [Lecture notes](Seminars/Seminar%2004/Seminar%2004.pdf)<br> [FIR/IIR example](Seminars/Seminar%2004/Seminar%2004.ipynb) |
 | 10.03.26 | 05 | Human speech characteristics. Audio spectrograms.	| [Video](https://youtu.be/JWcr-sjSKZQ)<br> [ipynb](Seminars/Seminar%2005/Seminar%2005.ipynb) |
 | 17.03.26 | — | *No classes*	|  |
-| 24.03.26 | 06 | Algorithms in smart speakers	| [Video](https://youtu.be/lIjn7hu6AMk)<br> [Presentation](Seminars/Seminar%2006/Seminar%2006.pptx) |
+| 24.03.26 | 06 | Algorithms in smart speakers	| [Video](https://youtu.be/lIjn7hu6AMk)<br> [Presentation](Seminars/Seminar%2006/Seminar%2006.pdf) |
 | 31.03.26 | — | *Semester break. No classes.*	|  |
 | 07.04.26 | — | *No classes*	| [Task 01](Tasks/Task%2001/Task%2001.ipynb) |
 | 14.04.26 | 07 | 	|  |
