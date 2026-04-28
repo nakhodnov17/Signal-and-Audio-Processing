@@ -33,8 +33,8 @@ Completion: To pass this module, both components must be passed with at least 45
 | 24.03.26 | 06 | Algorithms in smart speakers	| [Video](https://youtu.be/lIjn7hu6AMk)<br> [Presentation](Seminars/Seminar%2006/Seminar%2006.pdf) |
 | 31.03.26 | — | *Semester break. No classes.*	|  |
 | 07.04.26 | — | *No classes*	| [Task 01](Tasks/Task%2001/Task%2001.ipynb) |
-| 14.04.26 | 07 | Automatic Speech Recognition	| [Video](https://youtu.be/C1SmULhQt_E)<br> [Presentation](Seminars/Seminar%2007/Seminar%2007.ipynb) |
-| 21.04.26 | 08 | 	|  |
+| 14.04.26 | 07 | Automatic Speech Recognition	| [Video](https://youtu.be/C1SmULhQt_E)<br> [ipynb](Seminars/Seminar%2007/Seminar%2007.ipynb) |
+| 21.04.26 | 08 | ASR models: Transducer, Whisper	| [Video](https://youtu.be/cVB-lECUVk4)<br> [ipynb](Seminars/Seminar%2008/Seminar%2008.ipynb) |
 | 28.04.26 | 09 | 	|  |
 | 05.05.26 | 10 | 	|  |
 | 12.05.26 | 11 | 	|  |
