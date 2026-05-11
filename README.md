@@ -36,5 +36,5 @@ Completion: To pass this module, both components must be passed with at least 45
 | 14.04.26 | 07 | Automatic Speech Recognition	| [Video](https://youtu.be/C1SmULhQt_E)<br> [ipynb](Seminars/Seminar%2007/Seminar%2007.ipynb) |
 | 21.04.26 | 08 | ASR models: Transducer, Whisper	| [Video](https://youtu.be/cVB-lECUVk4)<br> [ipynb](Seminars/Seminar%2008/Seminar%2008.ipynb) |
 | 28.04.26 | 09 | 	|  |
-| 05.05.26 | 10 | 	|  |
+| 05.05.26 | 10 | TTS models	| [Video](https://youtu.be/42uJg5Vjt-Q)<br> [ipynb](Seminars/Seminar%2009/Seminar%2009.ipynb) |
 | 12.05.26 | 11 | 	|  |
